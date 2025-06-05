@@ -1,7 +1,6 @@
 ## Hi there 👋, Mohamed here!
---
 🚀 I'm Cloud Security Engineer with experience in securing and scaling cloud environments across AWS, Azure, and Microsoft 365. I help organisations build secure, compliant, and automated cloud systems that align with modern security standards. ddd
----
+
 ## 👨‍💻 About Me
 - 💼 Currently securing hybrid cloud environments at scale in the UK public sector. 
 - ☁️ Specialising in AWS, Azure, and Microsoft 365 Defender ecosystems.
