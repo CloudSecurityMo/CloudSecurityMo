@@ -1,5 +1,5 @@
 ## Hi there 👋, Mohamed here!
-🚀 I'm Cloud Security Engineer with experience in securing and scaling cloud/SAAS environments across AWS, Azure, and Microsoft 365. I help organisations build secure, compliant, and automated cloud systems that align with modern security standards. ddd
+🚀 I'm Cloud Security Engineer with experience in securing and scaling cloud/SAAS environments across AWS, Azure, and Microsoft 365. I help organisations build secure, compliant, and automated cloud systems that align with modern security standards.
 
 ## 👨‍💻 About Me
 - 💼 Currently securing hybrid cloud environments at scale in the UK public sector. 
@@ -21,6 +21,7 @@ Microsoft Sentinel · Defender XDR · CrowdStrike · Nessus · FortiWAF · Docke
 
 **IAM & Governance:**  
 Microsoft Entra ID · PIM · Conditional Access · MFA · SCIM · SAML
+
 ---
 ## 📌 What I'm Working On
 - 🛡️ Creating a solution (deployed via Terraform), that automatically deactivate AWS access keys that are 90+ days old.
