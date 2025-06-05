@@ -17,7 +17,7 @@ AWS · Azure · Microsoft 365
 Terraform · PowerShell · Bash 
 
 **Security & Automation:**  
-Microsoft Sentinel · Defender XDR · CrowdStrike · Nessus · FortiWAF · Docker · Kubernetes (familiarity)
+Microsoft Sentinel · Defender XDR · CrowdStrike · Nessus · FortiWAF · Docker · Kubernetes (familiarity) · AWS Security Hub · AWS IAM · AWS KMS 
 
 **IAM & Governance:**  
 Microsoft Entra ID · PIM · Conditional Access · MFA · SCIM · SAML
