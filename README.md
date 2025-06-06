@@ -6,8 +6,7 @@
 - ☁️ Specialising in AWS, Azure, and Microsoft 365 Defender ecosystems.
 - 🔐 Focused on cloud security reviews, compliance automation, and incident response. 
 - 🛠️ Passionate about simplifying security through scripting and automation.
-- 📚 Lifelong learner in DevSecOps, identity governance, and threat detection
--->
+- 📚 Lifelong learner in DevSecOps, identity governance, and threat detection.
 
 ## ⚙️ Tech Stack
 **Cloud Platforms:**  
