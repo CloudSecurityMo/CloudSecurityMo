@@ -25,3 +25,9 @@ Microsoft Entra ID · PIM · Conditional Access · MFA · SCIM · SAML
 ---
 ## 📌 What I'm Working On
 - 🛡️ Creating a solution (deployed via Terraform), that automatically deactivates AWS access keys that are 90+ days old.
+
+---
+## 📫 Let’s Connect
+- 💬 Ask me about cloud security, compliance automation, or building resilient cloud platforms.
+- 📍 Based in UK – open to collaboration.
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-elmi-731b811b8) · [Tech Blog](https://medium.com/@cloudsecmo)
