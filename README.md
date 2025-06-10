@@ -9,7 +9,7 @@
 - 📚 Lifelong learner in DevSecOps, identity governance, and threat detection.
 
 ## ⚙️ Tech Stack
-**Cloud Platforms:**  
+**Cloud/SAAS Platforms:**  
 AWS · Azure · Microsoft 365
 
 **IaC & Scripting:**  
